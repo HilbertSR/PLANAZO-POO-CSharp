@@ -12,3 +12,4 @@ C:\Users\Sarmiento Reyes\DiplomadoDotNet\parcial2\obj\Debug\net8.0\refint\parcia
 C:\Users\Sarmiento Reyes\DiplomadoDotNet\parcial2\obj\Debug\net8.0\parcial2.pdb
 C:\Users\Sarmiento Reyes\DiplomadoDotNet\parcial2\obj\Debug\net8.0\parcial2.genruntimeconfig.cache
 C:\Users\Sarmiento Reyes\DiplomadoDotNet\parcial2\obj\Debug\net8.0\ref\parcial2.dll
+C:\Users\Sarmiento Reyes\DiplomadoDotNet\parcial2\obj\Debug\net8.0\parcial2.sourcelink.json
